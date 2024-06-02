@@ -4,7 +4,7 @@
 @File    :   wes_gatk_BQSR.py
 @Time    :   2020/10/15 16:50:10
 @Author  :   tao_jingfen
-@Contact :   zb-taojingfen@kingmed.com.cn
+@Contact :   taojingfen@foxmail.com
 @Desc    :   Recalibration Base Quality Score
 '''
 

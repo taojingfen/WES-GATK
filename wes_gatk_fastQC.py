@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+'''
+@File    :   wes_gatk_fastQC.py
+@Time    :   2020/10/15 16:51:10
+@Author  :   tao_jingfen
+@Contact :   taojingfen@foxmail.com
+@Desc    :   Run fastqc
+'''
 
 import os
 import sys

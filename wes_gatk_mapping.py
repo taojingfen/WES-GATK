@@ -4,7 +4,7 @@
 @File    :   wes_gatk_mapping.py
 @Time    :   2020/10/13 16:00:08
 @Author  :   tao_jingfen
-@Contact :   zb-taojingfen@kingmed.com.cn
+@Contact :   taojingfen@foxmail.com
 @Desc    :   do the bwa mapping,
              map the fastq into reference
 '''

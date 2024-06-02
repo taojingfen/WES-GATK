@@ -4,7 +4,7 @@
 @File    :   wes_gatk_hardFilter.py
 @Time    :   2020/10/20 13:31:04
 @Author  :   tao_jingfen
-@Contact :   zb-taojingfen@kingmed.com.cn
+@Contact :   taojingfen@foxmail.com
 @Desc    :   Filter Variants by Variant (Quality Score) Recalibration 
 '''
 

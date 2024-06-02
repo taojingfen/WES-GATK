@@ -4,7 +4,7 @@
 @File    :   wes_gatk_hcaller.py
 @Time    :   2020/10/16 15:33:30
 @Author  :   tao_jingfen
-@Contact :   zb-taojingfen@kingmed.com.cn
+@Contact :   taojingfen@foxmail.com
 @Desc    :   Do the variant calling use HaplotypeCaller and GenotypeGVCFs
 '''
 

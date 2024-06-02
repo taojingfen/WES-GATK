@@ -4,7 +4,7 @@
 @File    :   wes_gatk_mapQC.py
 @Time    :   2020/10/27 10:27:52
 @Author  :   tao_jingfen
-@Contact :   zb-taojingfen@kingmed.com.cn
+@Contact :   taojingfen@foxmail.com
 @Desc    :   Do the QC of sequencing data
 '''
 

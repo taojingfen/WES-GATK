@@ -4,7 +4,7 @@
 @File    :   cmd_logger.py
 @Time    :   2020/10/10 14:36:01
 @Author  :   tao_jingfen
-@Contact :   zb-taojingfen@kingmed.com.cn
+@Contact :   taojingfen@foxmail.com
 @Desc    :   Creat a logger file,
              Run the command and output log info into the file
 '''

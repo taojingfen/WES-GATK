@@ -4,7 +4,7 @@
 @File    :   wes_gatk_markdup_QC.py
 @Time    :   2020/10/15 14:42:01
 @Author  :   tao_jingfen
-@Contact :   zb-taojingfen@kingmed.com.cn
+@Contact :   taojingfen@foxmail.com
 @Desc    :   Mark the duplicate in the bamfile
 '''
 

@@ -4,7 +4,7 @@
 @File    :   wes_gatk.py
 @Time    :   2020/10/23 11:27:52
 @Author  :   tao_jingfen
-@Contact :   zb-taojingfen@kingmed.com.cn
+@Contact :   taojingfen@foxmail.com
 @Desc    :   Do the WES SNP and INDEl analysis
              Based on GATK best practice
 '''

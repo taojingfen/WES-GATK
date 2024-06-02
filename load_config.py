@@ -4,7 +4,7 @@
 @File    :   load_config.py
 @Time    :   2020/10/10 14:36:01
 @Author  :   tao_jingfen
-@Contact :   zb-taojingfen@kingmed.com.cn
+@Contact :   taojingfen@foxmail.com
 @Desc    :   get the config information from config.ini
 '''
 
